@@ -54,3 +54,53 @@ header {
     border: none;
   }
 }
+main {
+  max-width: 900px;
+  margin-inline: auto;
+  h2 {
+    font-weight: 400;
+  }
+  p {
+    margin: 0;
+  }
+  h5 {
+    font-size: 1.1em;
+    color: #acacae;
+    font-weight: 400;
+  }
+  button {
+    border: none;
+    background-color: #dfdee2;
+    color: #141414;
+    font-size: 0.8em;
+    padding: 5px 20px;
+    border-bottom: 1px solid #acacae;
+  }
+  a {
+    text-decoration: none;
+    font-size: 0.9em;
+    color: #24a1d6;
+    line-height: 25px;
+  }
+  img {
+    width: 30px;
+  }
+  .email {
+    font-weight: 600;
+  }
+  i {
+    font-size: 1.4em;
+  }
+  .payPal {
+    font-weight: 800;
+    font-style: italic;
+    margin-right: 5px;
+  }
+  .line {
+    border-top: 1px solid #666666;
+  }
+  .line2 {
+    border-bottom: 1px solid #666666;
+    margin-bottom: 15px;
+  }
+}
